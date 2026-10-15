@@ -1,0 +1,8 @@
+gradio
+scikit-learn
+pypdf
+pymupdf
+reportlab
+pytesseract
+pillow
+matplotlib
