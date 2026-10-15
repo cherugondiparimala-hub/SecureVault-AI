@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1_d3rag7dV3Z66xwApF9LuWO5cqrTAMcE
 """
 
-!pip -q install gradio pymupdf reportlab
-
-!apt-get -qq update
-!apt-get -qq install -y tesseract-ocr
-!pip -q install pytesseract pillow pymupdf
 
 import os
 import re
